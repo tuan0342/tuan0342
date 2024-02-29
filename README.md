@@ -14,6 +14,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   
 - 🌐 &nbsp;
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
