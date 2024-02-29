@@ -18,6 +18,7 @@
 - 🌐 &nbsp;
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
   ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 - ⚙️ &nbsp;
